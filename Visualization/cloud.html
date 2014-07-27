@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8">
+
+    <title>Restaurant Review Sentiments</title>
+    <script src="js/d3.js" type="text/javascript"></script>
+    <script src="js/d3.layout.cloud.js" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <style>
+    #cloud-title {
+    	width:960px;
+    	margin:auto;
+	    font-family: "Helvetica Neue", Impact;
+	    font-weight: 200;
+	    font-size: 4em;
+	    text-align: center;
+	    color: #999;
+    }
+    #viz {
+	    width:960px;
+	    margin:auto;
+    }
+    #feature-title {
+	    color: #222;
+    }
+    #viz text:hover { opacity: .7 !important; }
+    #hover-info {
+    	width: 960px;
+	    margin:auto;
+	    text-align: center;
+	    font-family: "Helvetica Neue", Impact;
+	    font-weight: 200;
+	    font-size: 2em;
+    }
+    
+    body{
+	    background-color:#eeeeee;
+	    background-image:url(images/bg_gray.jpg);
+    }
+ 
+    </style>
+</head>
+
+<body>
+<div id="cloud-title"><span id="title-prefix">Salient features about </span><span id="feature-title">Vortex</span>:</div>
+    <div id="viz"></div><div id="hover-info">Hola!</div>
+    
+
+    <script src="js/features_rests.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var fill = d3.scale.category20();
+    var height = 500;
+    var width = 960;
+    var restaurants = {};
+    var features = {};
+
+    function listGenerator(restaurant_features){
+      
+      for (var restaurant in restaurant_features){
+        
+        var totalsize = 0;
+        for (var feature in restaurant_features[restaurant]){
+            totalsize += (restaurant_features[restaurant][feature]['opinion_count'] + 30);
+        };
+        
+        restaurants[restaurant] = [];
+        
+        for (var feature in restaurant_features[restaurant]){
+            restaurants[restaurant].push(
+                {
+                    text: feature,
+                    sentiment: restaurant_features[restaurant][feature]['sentiment'],
+                    size: (restaurant_features[restaurant][feature]['opinion_count'] + 30)/totalsize * 100 * 10// dB = 10 log(1 + 1%)
+            });
+            
+            if (!(feature in features)) features[feature] = [];
+            
+            features[feature].push(
+                {
+                    text: restaurant,
+                    sentiment: restaurant_features[restaurant][feature]['sentiment'],
+                    size: restaurant_features[restaurant][feature]['opinion_count']  
+                });
+        };
+      };
+      
+      for(var feature in features){
+          var totalsize = 0;
+          for (var i = 0; i< features[feature].length; i++){
+              totalsize += (features[feature][i]['size'] + 30);
+          }
+          
+          for (var i = 0; i< features[feature].length; i++){
+              features[feature][i]['size'] = (features[feature][i]['size'] + 30)/totalsize * 100 * 10;
+          }  
+      };
+        console.log(restaurants);  
+        console.log(features); 
+    };
+
+
+    var restaurant_mode = true;
+    var prefix = document.getElementById("title-prefix");
+    var title = document.getElementById("feature-title");    
+
+    function reload(word){
+      svg.remove();
+      svg = d3.select('#viz') .append('svg') .attr('width', width) .attr('height', height) .attr("id","the_id");
+      
+    if (restaurant_mode){
+      layout.words(features[word]).start();
+      restaurant_mode = !restaurant_mode;
+      prefix.innerHTML = "Popular places for ";
+      title.innerHTML = word;
+      
+      }
+    else{
+      layout.words(restaurants[word]).start();
+      restaurant_mode = !restaurant_mode;
+      prefix.innerHTML = "Salient features about ";
+      title.innerHTML = word;
+      }
+    };
+    
+	function hashReload(){
+	reload(window.location.hash.substring(1));
+  console.log(window.location.hash.substring(1));		
+		
+	};
+	
+
+
+	
+    wordlist = ["Hello", "world", "normally", "you", "want", "more", "words",
+        "than", "this"].map(function(d) {
+        return {text: d, size: 10 + Math.random() * 90};
+      });
+      
+    function colourizer(sentiment)
+            // hsl(343, 74%, 60%) == pink == 0.05 spm == 45mph
+            // hsl(343, 0%, 60%) == gray == 2.2 spm == 1mph
+            // 1/0.05 == 20, 1/2.2 == .45
+            // spm range = 20-0.45 == 19.55
+            // saturation range = 74-0 == 74
+            { 
+              if (sentiment > 10.0) return 110;
+              else if (sentiment < 0.0) return 0;
+              else return parseInt((sentiment * 110) / 10);
+            }
+
+	function hoverizer(text){
+		
+		if (!text){
+			document.getElementById("hover-info").innerHTML = '';
+			return;
+		} 
+		
+		var op_count = 0,
+			sentiment = 0;
+		if (!restaurant_mode)
+		{
+			op_count = restaurant_features[text][title.innerHTML]['opinion_count'];
+			sentiment = restaurant_features[text][title.innerHTML]['sentiment'];
+		}
+		else{
+			op_count = restaurant_features[title.innerHTML][text]['opinion_count'];
+			sentiment = restaurant_features[title.innerHTML][text]['sentiment'];
+		}
+		document.getElementById("hover-info").innerHTML ="" + text + ": Opinion Count - " + op_count + " | Sentiment - " + sentiment.toFixed(2)+ "";
+	}
+
+    //console.log(restaurant_features);    
+    listGenerator(restaurant_features);
+		var rest_param = window.location.hash ? window.location.hash.substring(1) : 'Delux';
+title.innerHTML = rest_param;
+    var svg = d3.select('#viz') .append('svg') .attr('width', width) .attr('height', height) .attr("id","the_id");
+console.log(restaurants[rest_param]);
+    var layout = d3.layout.cloud().size([width, height])
+      //.words(wordlist)
+      //.words(restaurants['Citizen Public House'])
+      .words(restaurants[rest_param])
+      .padding(3)
+      .rotate(0)//function() { return ~~(Math.random() * 2) * 90; })
+      .font("Impact")
+      .fontSize(function(d) { return d.size; })
+      .on("end", draw)
+      .start();
+//reload(rest_param);
+function getParameterByName(name) {
+			name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+			var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+			results = regex.exec(location.search);
+			return results == null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+		}
+		
+    function draw(words) {
+    svg
+      .append("g")
+        .attr("transform", "translate("+width/2+','+height/2+")")
+      .selectAll("text")
+     // .duration(1000) 
+        .data(words)
+      .enter()
+      .append("text")
+      .on('click', function (d) {
+       reload(d.text);
+       history.pushState(null, null, '#'+d.text)})
+       .on('mouseover', function(d,i) {
+       		hoverizer(d.text);})
+  .on('mouseout', function(d,i) { hoverizer(null);})
+        .style("font-size", function(d) { return d.size + "px"; })
+        .style("font-family", "Impact")
+        .style("cursor", "pointer")
+        .style("fill", function(d, i) { return 'hsl('+colourizer(d.sentiment)+', 100%, 40%)'; })
+        .attr("text-anchor", "middle")
+        .attr("transform", function(d) {
+          return "translate(" + [d.x, d.y] + ")rotate(" + d.rotate + ")";
+        })
+        .text(function(d) { return d.text; });
+    
+    //reload(rest_param);
+    }
+
+window.onhashchange = hashReload;
+    </script>
+</body>
+</html>

@@ -1,0 +1,225 @@
+Restaurant_ID V6BYjHM9SnXscfkln3hCdA
+orange table Support=167
+40 End -------------------------------------------------------------
+Restaurant_ID xY1sPHTA2RGVFlh5tZhs9g
+dropout culinary Support=162
+pretzel fondue Support=61
+bread monkey Support=56
+54 End -------------------------------------------------------------
+Restaurant_ID 2ceeU8e3nZjaPfGmLwh4kg
+moore casey Support=123
+38 End -------------------------------------------------------------
+Restaurant_ID I4bSn5gXsHuSPu7L-d_8nQ
+osso bucco Support=46
+pie pecan Support=63
+cream ice Support=77
+s'mores bacon Support=47
+46 End -------------------------------------------------------------
+Restaurant_ID uEJQSIjWui-TDWXaGlcqyQ
+greens collard Support=47
+soul food Support=53
+45 End -------------------------------------------------------------
+Restaurant_ID 3n9mSKySEv3G03YjcU-YOQ
+51 End -------------------------------------------------------------
+Restaurant_ID WNy1uzcmm_UHmTyR--o5IA
+cornish pasty Support=197
+76 End -------------------------------------------------------------
+Restaurant_ID e8FMAuTswDueAlLsNyLhcA
+daily dose Support=153
+town old Support=43
+41 End -------------------------------------------------------------
+Restaurant_ID cp39VURFby4A6u9m2It8jg
+fries zucchini Support=63
+kobe burger Support=64
+burger turkey Support=43
+truffle fries Support=80
+fries potato Support=85
+37 End -------------------------------------------------------------
+Restaurant_ID Gq092IH6eZqhAXwtXcwc6A
+san tan Support=121
+chandler downtown Support=43
+38 End -------------------------------------------------------------
+Restaurant_ID 6imLt53br7SJ3av07jjH7w
+elevator shaft Support=42
+department store Support=49
+phoenix downtown Support=56
+37 End -------------------------------------------------------------
+Restaurant_ID 1NZLxU5WvB5roPFzneAlLw
+pibil cochinita Support=49
+cafe barrio Support=140
+seeds pomegranate Support=68
+47 End -------------------------------------------------------------
+Restaurant_ID vARjqeIkSNsazHltujiq4Q
+cornish pasty Support=120
+49 End -------------------------------------------------------------
+Restaurant_ID z3yFuLVrmH-3RJruPEMYKw
+cheese steak Support=41
+38 End -------------------------------------------------------------
+Restaurant_ID mxrXVZWc6PWk81gvOVNOUw
+burger ass Support=80
+chili pork Support=43
+chile pork Support=44
+roaring fork Support=129
+39 End -------------------------------------------------------------
+Restaurant_ID JokKtdXU7zXHcr20Lrk29A
+beer bread Support=113
+lifter kilt Support=100
+91 End -------------------------------------------------------------
+Restaurant_ID Zx8_4zKdDBSO3qGrkukBIA
+red jade Support=108
+red chicken Support=96
+jerk chicken Support=123
+chino bandido Support=133
+chicken jade Support=172
+54 End -------------------------------------------------------------
+Restaurant_ID MuIXnv7Oq7X3-4aEsp9dDA
+citizen public Support=89
+pastrami belly Support=77
+citizen house Support=89
+bread pudding Support=73
+burger lamb Support=66
+belly pork Support=122
+pastrami pork Support=78
+public house Support=93
+59 End -------------------------------------------------------------
+Restaurant_ID YQvg0JCGRFUkb6reMMf3Iw
+bocca la Support=238
+cheese goat Support=74
+wine bar Support=38
+38 End -------------------------------------------------------------
+Restaurant_ID qjmCVYkwP-HDa35jwYucbQ
+salad kale Support=95
+kitchen food Support=62
+54 End -------------------------------------------------------------
+Restaurant_ID _FXql6eVhbM923RdCi94SA
+tai mai Support=66
+fries potato Support=129
+60 End -------------------------------------------------------------
+Restaurant_ID AkOruz5CrCxUmXe1p_WoRg
+blossom cherry Support=97
+41 End -------------------------------------------------------------
+Restaurant_ID pwpl-rxwNRQdgqFz_-qMPg
+61 End -------------------------------------------------------------
+Restaurant_ID zp713qNhx8d9KCJJnrw1xA
+mole chicken Support=65
+salsa strawberry Support=45
+carne asada Support=56
+condesa la Support=151
+salsa bar Support=267
+cochinita pibil Support=54
+41 End -------------------------------------------------------------
+Restaurant_ID V1nEpIRmEa1768oj_tuxeQ
+83 End -------------------------------------------------------------
+Restaurant_ID VVeogjZya58oiTxK7qUjAQ
+wait hour Support=126
+boy sonny Support=116
+bianco pizzeria Support=390
+104 End -------------------------------------------------------------
+Restaurant_ID 9Y3aQAVITkEJYe5vLZr13w
+club breakfast Support=123
+benedict eggs Support=50
+37 End -------------------------------------------------------------
+Restaurant_ID YKOvlBNkF4KpUP9q7x862w
+bread pudding Support=99
+tacos pork Support=72
+steak tacos Support=66
+side table Support=68
+pumpkin bread Support=73
+shoulder pork Support=95
+belly pork Support=74
+pumpkin pudding Support=70
+62 End -------------------------------------------------------------
+Restaurant_ID bgTB6MgdVQssXhkNJ7qIfw
+roka akor Support=187
+belly pork Support=47
+tataki butterfish Support=58
+40 End -------------------------------------------------------------
+Restaurant_ID OFBJtqWGSx6n6CchtVmoRw
+burger delux Support=165
+cart shopping Support=84
+fries potato Support=226
+54 End -------------------------------------------------------------
+Restaurant_ID FURgKkRFtMK5yKbjYZVVwA
+salad kale Support=47
+sandwich chicken Support=50
+cream ice Support=63
+46 End -------------------------------------------------------------
+Restaurant_ID FV0BkoGOd3Yu_eJnXY15ZA
+stetson salad Support=89
+bread pudding Support=57
+fry pan Support=67
+ciao cowboy Support=208
+salad chopped Support=49
+stetson chopped Support=54
+pan mushroom Support=65
+fry mushroom Support=72
+wine list Support=78
+44 End -------------------------------------------------------------
+Restaurant_ID EWMwV5V9BxNs_U6nNVMeqw
+fries potato Support=236
+fez burger Support=164
+90 End -------------------------------------------------------------
+Restaurant_ID -sC66z4SO3tR7nFCjfQwuQ
+clarendon hotel Support=71
+asada carne Support=134
+blanco gallo Support=322
+70 End -------------------------------------------------------------
+Restaurant_ID 53YGfwmbW73JhFiemNeyzQ
+52 End -------------------------------------------------------------
+Restaurant_ID Xq9tkiHhyN_aBFswFeGLvA
+peanut butter Support=44
+42 End -------------------------------------------------------------
+Restaurant_ID SDwYQ6eSu1htn8vHWv128g
+78 End -------------------------------------------------------------
+Restaurant_ID 5VMajxduxfLPSyQkVFKESg
+root beer Support=119
+style cafeteria Support=44
+sauce bbq Support=94
+43 End -------------------------------------------------------------
+Restaurant_ID QnAzW6KMSciUcuJ20oI3Bw
+onion rings Support=161
+farm grill Support=183
+burger fontina Support=74
+fries potato Support=111
+66 End -------------------------------------------------------------
+Restaurant_ID uKSX1n1RoAzGq4bV8GPHVg
+st. francis Support=319
+st francis Support=77
+cheese goat Support=165
+65 End -------------------------------------------------------------
+Restaurant_ID ntN85eu27C04nwyPa8IHtw
+fries home Support=102
+hash browns Support=160
+70 End -------------------------------------------------------------
+Restaurant_ID L9UYbtAUOcfTgZFimehlXw
+liberty market Support=302
+52 End -------------------------------------------------------------
+Restaurant_ID 7SO_rX1F6rQEl-5s3wZxgQ
+grande la Support=56
+grande orange Support=53
+orange la Support=50
+38 End -------------------------------------------------------------
+Restaurant_ID IVc23uY-36WUNYoIbz42Fg
+45 End -------------------------------------------------------------
+Restaurant_ID c1yGkETheht_1vjda7G5sA
+cream ice Support=60
+57 End -------------------------------------------------------------
+Restaurant_ID 3oZcTGb_oDHGwZFiP-7kxQ
+rib tacos Support=70
+61 End -------------------------------------------------------------
+Restaurant_ID R8VwdLyvsp9iybNqRvm94g
+la orange Support=82
+la grande Support=87
+grande orange Support=83
+sandwich commuter Support=56
+49 End -------------------------------------------------------------
+Restaurant_ID K8pM6qQdYu5h6buRE1-_sw
+soul food Support=85
+velvet cake Support=80
+58 End -------------------------------------------------------------
+Restaurant_ID aRkYtXfmEKYG-eTDf_qUsw
+shop coffee Support=94
+63 End -------------------------------------------------------------
+Restaurant_ID FqzgT9Y-Yu7jiWdHnGW-kQ
+fries potato Support=43
+39 End -------------------------------------------------------------

@@ -1,0 +1,577 @@
+Restaurant_ID V6BYjHM9SnXscfkln3hCdA
+Orange Table 144
+minutes 89
+breakfast 165
+coffee 85
+service 238
+server 89
+time 169
+place 286
+food 328
+9 End ------------------------------------------------------------------
+Restaurant_ID xY1sPHTA2RGVFlh5tZhs9g
+menu 167
+pretzels 111
+service 139
+place 361
+food 360
+Culinary Dropout 153
+restaurant 132
+server 115
+table 116
+time 195
+drinks 134
+chicken 118
+12 End ------------------------------------------------------------------
+Restaurant_ID 2ceeU8e3nZjaPfGmLwh4kg
+Casey 100
+friends 81
+oysters 87
+service 82
+bar 189
+people 132
+beer 81
+place 362
+Casey Moore 115
+food 221
+patio 129
+time 156
+drinks 92
+13 End ------------------------------------------------------------------
+Restaurant_ID I4bSn5gXsHuSPu7L-d_8nQ
+menu 171
+dish 108
+cheese 128
+service 219
+meal 136
+bacon 117
+night 91
+chocolate 95
+Table 147
+place 223
+dessert 127
+food 331
+restaurant 165
+server 110
+table 139
+ribs 134
+time 188
+Beckett 263
+18 End ------------------------------------------------------------------
+Restaurant_ID uEJQSIjWui-TDWXaGlcqyQ
+cheese 117
+Lo-Lo 117
+service 142
+grits 100
+waffles 363
+place 260
+food 300
+Lolo 128
+time 162
+chicken 613
+waffle 224
+11 End ------------------------------------------------------------------
+Restaurant_ID 3n9mSKySEv3G03YjcU-YOQ
+service 159
+wine 327
+place 321
+food 244
+Postino 243
+time 164
+bruschetta 260
+7 End ------------------------------------------------------------------
+Restaurant_ID WNy1uzcmm_UHmTyR--o5IA
+menu 160
+bar 163
+place 644
+food 431
+pasties 267
+time 281
+6 End ------------------------------------------------------------------
+Restaurant_ID e8FMAuTswDueAlLsNyLhcA
+menu 83
+Daily Dose 129
+breakfast 149
+service 148
+time 141
+place 214
+food 212
+7 End ------------------------------------------------------------------
+Restaurant_ID cp39VURFby4A6u9m2It8jg
+burgers 206
+potato fries 80
+burger 381
+service 105
+fries 223
+time 124
+place 174
+Zinburger 214
+food 138
+9 End ------------------------------------------------------------------
+Restaurant_ID Gq092IH6eZqhAXwtXcwc6A
+beers 110
+service 98
+time 104
+beer 337
+place 242
+food 261
+6 End ------------------------------------------------------------------
+Restaurant_ID 6imLt53br7SJ3av07jjH7w
+menu 93
+drink 83
+service 125
+bar 139
+night 97
+people 98
+place 402
+food 218
+Hanny 328
+pizza 128
+time 128
+drinks 177
+12 End ------------------------------------------------------------------
+Restaurant_ID 1NZLxU5WvB5roPFzneAlLw
+guacamole 151
+menu 98
+dish 102
+Phoenix 103
+service 122
+meal 103
+Barrio 121
+place 333
+food 439
+restaurant 193
+table 121
+time 170
+Barrio Cafe 121
+13 End ------------------------------------------------------------------
+Restaurant_ID vARjqeIkSNsazHltujiq4Q
+service 144
+place 375
+food 328
+pasties 149
+atmosphere 102
+time 215
+6 End ------------------------------------------------------------------
+Restaurant_ID z3yFuLVrmH-3RJruPEMYKw
+Defalco 113
+sandwiches 117
+sandwich 97
+time 135
+deli 91
+place 268
+food 242
+order 100
+8 End ------------------------------------------------------------------
+Restaurant_ID mxrXVZWc6PWk81gvOVNOUw
+cheese 92
+service 153
+place 164
+food 245
+restaurant 82
+time 117
+hour 162
+Roaring Fork 117
+8 End ------------------------------------------------------------------
+Restaurant_ID JokKtdXU7zXHcr20Lrk29A
+beers 252
+service 196
+beer 805
+place 686
+food 667
+Peaks 397
+time 280
+7 End ------------------------------------------------------------------
+Restaurant_ID Zx8_4zKdDBSO3qGrkukBIA
+menu 110
+Chino Bandido 117
+place 457
+food 500
+beans 259
+rice 298
+time 191
+chicken 209
+8 End ------------------------------------------------------------------
+Restaurant_ID MuIXnv7Oq7X3-4aEsp9dDA
+menu 173
+salad 287
+service 236
+bar 136
+place 310
+food 383
+restaurant 124
+time 176
+drinks 194
+scallops 183
+10 End ------------------------------------------------------------------
+Restaurant_ID YQvg0JCGRFUkb6reMMf3Iw
+menu 88
+service 149
+wine 109
+La Bocca 216
+place 254
+food 180
+pizzas 79
+pizza 297
+atmosphere 83
+time 146
+bruschetta 116
+11 End ------------------------------------------------------------------
+Restaurant_ID qjmCVYkwP-HDa35jwYucbQ
+menu 178
+service 161
+place 296
+food 411
+restaurant 157
+time 148
+Food 137
+7 End ------------------------------------------------------------------
+Restaurant_ID _FXql6eVhbM923RdCi94SA
+menu 127
+service 183
+place 407
+food 368
+patio 180
+potato fries 121
+time 257
+hour 126
+drinks 269
+Hula 381
+10 End ------------------------------------------------------------------
+Restaurant_ID AkOruz5CrCxUmXe1p_WoRg
+menu 105
+service 162
+place 348
+food 296
+restaurant 94
+sushi 116
+time 138
+noodles 131
+ramen 125
+9 End ------------------------------------------------------------------
+Restaurant_ID pwpl-rxwNRQdgqFz_-qMPg
+menu 131
+service 171
+place 454
+food 257
+pizzas 141
+pizza 515
+time 197
+Parlor 343
+8 End ------------------------------------------------------------------
+Restaurant_ID zp713qNhx8d9KCJJnrw1xA
+horchata 102
+salsa 142
+salsa bar 237
+place 321
+food 217
+beans 96
+La Condesa 130
+chips 124
+tacos 242
+salsas 141
+rice 84
+time 112
+12 End ------------------------------------------------------------------
+Restaurant_ID V1nEpIRmEa1768oj_tuxeQ
+service 233
+Cibo 536
+place 506
+food 380
+pizzas 188
+patio 175
+pizza 785
+atmosphere 179
+time 241
+9 End ------------------------------------------------------------------
+Restaurant_ID VVeogjZya58oiTxK7qUjAQ
+Phoenix 222
+wait 633
+people 317
+door 294
+place 708
+Bianco 221
+time 475
+Pizzeria Bianco 368
+hours 430
+bar 267
+crust 280
+food 329
+pizzas 324
+restaurant 243
+pizza 1716
+table 279
+16 End ------------------------------------------------------------------
+Restaurant_ID 9Y3aQAVITkEJYe5vLZr13w
+eggs 94
+wait 99
+breakfast 177
+coffee 81
+Breakfast Club 95
+service 105
+table 80
+time 104
+people 78
+place 235
+food 207
+11 End ------------------------------------------------------------------
+Restaurant_ID YKOvlBNkF4KpUP9q7x862w
+guacamole 153
+menu 164
+service 203
+place 336
+food 430
+restaurant 199
+Mission 313
+table 126
+time 216
+drinks 138
+10 End ------------------------------------------------------------------
+Restaurant_ID bgTB6MgdVQssXhkNJ7qIfw
+menu 123
+service 181
+place 270
+food 322
+restaurant 137
+fish 89
+Roka 83
+sushi 171
+time 134
+Roka Akor 154
+10 End ------------------------------------------------------------------
+Restaurant_ID OFBJtqWGSx6n6CchtVmoRw
+burgers 222
+service 146
+place 326
+food 192
+Delux 336
+potato fries 207
+burger 445
+fries 369
+time 155
+9 End ------------------------------------------------------------------
+Restaurant_ID FURgKkRFtMK5yKbjYZVVwA
+menu 117
+cheese 112
+service 144
+side 98
+Windsor 254
+bar 93
+place 277
+food 262
+patio 118
+time 152
+10 End ------------------------------------------------------------------
+Restaurant_ID FV0BkoGOd3Yu_eJnXY15ZA
+menu 131
+dish 102
+salad 248
+service 129
+meal 97
+Cowboy Ciao 194
+place 183
+food 259
+restaurant 90
+time 133
+10 End ------------------------------------------------------------------
+Restaurant_ID EWMwV5V9BxNs_U6nNVMeqw
+Fez 429
+service 328
+place 480
+food 592
+potato fries 217
+burger 288
+fries 193
+time 371
+drinks 209
+FEZ 407
+10 End ------------------------------------------------------------------
+Restaurant_ID -sC66z4SO3tR7nFCjfQwuQ
+guacamole 213
+service 207
+Gallo Blanco 279
+place 421
+food 453
+tacos 324
+restaurant 191
+time 230
+drinks 141
+9 End ------------------------------------------------------------------
+Restaurant_ID 53YGfwmbW73JhFiemNeyzQ
+service 194
+meal 106
+dinner 112
+place 281
+food 319
+patio 135
+Ivy 204
+restaurant 130
+bread 120
+Olive 138
+time 148
+11 End ------------------------------------------------------------------
+Restaurant_ID Xq9tkiHhyN_aBFswFeGLvA
+menu 114
+service 164
+place 238
+food 238
+restaurant 115
+time 122
+Butcher 127
+7 End ------------------------------------------------------------------
+Restaurant_ID SDwYQ6eSu1htn8vHWv128g
+service 178
+wine 474
+place 566
+food 335
+Postino 362
+time 236
+bruschetta 435
+7 End ------------------------------------------------------------------
+Restaurant_ID 5VMajxduxfLPSyQkVFKESg
+beans 90
+BBQ 243
+line 139
+Joe 296
+sides 105
+cheese 110
+brisket 100
+sauce 90
+meat 116
+ribs 140
+time 107
+side 85
+pork 152
+place 250
+food 208
+15 End ------------------------------------------------------------------
+Restaurant_ID QnAzW6KMSciUcuJ20oI3Bw
+onion rings 132
+line 160
+Farm Grill 152
+place 503
+food 528
+burger 152
+Joe 394
+fries 230
+time 205
+9 End ------------------------------------------------------------------
+Restaurant_ID uKSX1n1RoAzGq4bV8GPHVg
+menu 245
+St. Francis 271
+service 213
+dinner 159
+place 377
+food 402
+restaurant 182
+time 290
+8 End ------------------------------------------------------------------
+Restaurant_ID ntN85eu27C04nwyPa8IHtw
+wait 386
+service 156
+bacon 287
+people 199
+hash browns 147
+place 568
+food 442
+eggs 258
+minutes 156
+Matt 532
+breakfast 376
+coffee 166
+time 261
+toast 165
+14 End ------------------------------------------------------------------
+Restaurant_ID L9UYbtAUOcfTgZFimehlXw
+menu 104
+line 106
+place 364
+food 338
+Joe 117
+pizza 121
+breakfast 148
+time 202
+Liberty Market 252
+9 End ------------------------------------------------------------------
+Restaurant_ID 7SO_rX1F6rQEl-5s3wZxgQ
+pizza 347
+LGO 163
+time 131
+crust 86
+place 250
+food 148
+6 End ------------------------------------------------------------------
+Restaurant_ID IVc23uY-36WUNYoIbz42Fg
+menu 116
+service 174
+place 285
+food 321
+restaurant 99
+time 156
+drinks 117
+7 End ------------------------------------------------------------------
+Restaurant_ID c1yGkETheht_1vjda7G5sA
+menu 162
+meat 146
+place 369
+food 394
+restaurant 142
+time 187
+chicken 159
+Green 385
+8 End ------------------------------------------------------------------
+Restaurant_ID 3oZcTGb_oDHGwZFiP-7kxQ
+menu 129
+service 243
+dinner 121
+place 341
+food 393
+patio 222
+Chelsea 364
+restaurant 138
+Kitchen 164
+table 146
+time 198
+11 End ------------------------------------------------------------------
+Restaurant_ID R8VwdLyvsp9iybNqRvm94g
+parking 111
+people 124
+place 408
+food 261
+pizza 119
+LGO 252
+breakfast 156
+coffee 100
+time 157
+9 End ------------------------------------------------------------------
+Restaurant_ID K8pM6qQdYu5h6buRE1-_sw
+cheese 151
+Lo-Lo 262
+service 153
+waffles 511
+place 381
+food 362
+time 214
+chicken 749
+waffle 230
+tea 124
+10 End ------------------------------------------------------------------
+Restaurant_ID aRkYtXfmEKYG-eTDf_qUsw
+people 215
+place 536
+coffee 499
+time 196
+4 End ------------------------------------------------------------------
+Restaurant_ID FqzgT9Y-Yu7jiWdHnGW-kQ
+friends 83
+service 102
+night 77
+people 106
+place 322
+food 239
+patio 179
+atmosphere 90
+time 149
+drinks 114
+Vig 326
+11 End ------------------------------------------------------------------
