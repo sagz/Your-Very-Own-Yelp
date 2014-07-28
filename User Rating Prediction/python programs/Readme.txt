@@ -16,4 +16,4 @@ topredict.py - Takes the output files from graphlab and brings it back into form
 1. Run parse.py as follows:
 python parse.py
 
-It will take the reviews_clsutered.txt file as input and generate reviews.txt file. This file is already in the LDA folder. Head over to the LDA folder and run lda using the command given in the README.
+It will take the reviews_clustered.txt file as input and generate reviews.txt file. This file is already in the LDA folder. Head over to the LDA folder and run lda using the command given in the README.
