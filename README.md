@@ -1,5 +1,4 @@
 # Your Very Own Yelp®
----
 
 Team HTTP501 from Georgia Tech presents a personalization solution to Yelp; as part of the Yelp Dataset Challenge 2014. This is a semester wide project built during the course of Data and Visual Analytics, CSE 6242 Spring 2014 at Georgia Tech.  
 By - _Ameya Vilankar, Mohini Thakkar, Sagar Savla_
@@ -64,6 +63,18 @@ Mozilla Firefox v30.
       Clicking on the feature makes another word cloud surrounding that
       feature/restaurant. The user can navigate back-and-forth with these
       links.
+
+## Some snazzy screenshots!
+1. Our Data Flow Diagram
+  ![Our Data Flow Diagram](DOC/flow-diagram.png)
+2. The static mock-up login screen
+  ![The static mock-up login screen](DOC/yelp index.png)
+3. The interactive map of restaurants near a user, colored (ranked) based on likeness
+  ![The interactive map of restaurants near a user, colored (ranked) based on likeness](DOC/yelp map.png)
+4. The feature wordcloud of one selected restaurant from step 3.
+  ![The feature wordcloud of one selected restaurant from step 3.](DOC/wordcloud-feature.png)
+5. The reverse restaurant wordcloud of a selected feature from step 4.
+  ![The reverse restaurant wordcloud of a selected feature from step 4.](DOC/wordcloud-restaurant.png)
 
 
 This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
