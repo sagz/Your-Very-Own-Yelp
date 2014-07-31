@@ -1,7 +1,7 @@
 # Your Very Own Yelp®
 
 Team HTTP501 from Georgia Tech presents a personalization solution to Yelp; as part of the Yelp Dataset Challenge 2014. This is a semester wide project built during the course of Data and Visual Analytics, CSE 6242 Spring 2014 at Georgia Tech.  
-By - _Ameya Vilankar, Mohini Thakkar, Sagar Savla_
+By - _Ameya Vilankar, Sagar Savla_
 
 ---
 
